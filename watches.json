@@ -1,0 +1,23 @@
+[
+    {
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 10
+    },
+    {
+      "brand": "Omega",
+      "model": "Speedmaster",
+      "price": 5000
+    },
+    {
+      "brand": "Seiko",
+      "model": "Presage",
+      "price": 600
+    },
+    {
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "price": 3000
+    }
+  ]
+  
